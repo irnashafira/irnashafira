@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @irnashafira
-- 👀 I’m interested in data analytics and forecasting
+- 👀 I’m interested in data analytics
 - 🌱 I’m currently learning data science and machine learning!
 - 📫 Reach me via irnashfr@gmail.com or [linkedin](https://www.linkedin.com/in/irnashafira/) for opportunities or collaboration!
